@@ -1,5 +1,5 @@
 # Cycle
-Cycle is very similar to the classic sanke game, except there are now 2 snakes! This is 2 person game, so play with a friend! The first person to get the other person's snake to run into theirs wins the game.
+Cycle is very similar to the classic snake game, except there are now 2 snakes! This is 2 person game, so play with a friend! The first person to get the other person's snake to run into theirs wins the game.
 
 ## Getting Started
 ---
